@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: YellowGreen;
+    border: 5px solid black;
+}
+
+header a{
+    background-color: black;
+    color:YellowGreen ;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+main h1{
+    text-align: center;
+    color: black;
+    background-color: YellowGreen;
+    border-radius: 5px;
+    border: 5px solid black;
+}
+
+footer{
+    background-color:YellowGreen;
+    border-radius: 5px ;
+    border: 3px solid ;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 5px;
+    background-color: YellowGreen;
+    padding: 3px;
+    transition: background-color 1s linear;
+}
+
+nav{
+    margin: 30px;
+    border:5px solid black;
+    padding:20px;
+    border-radius: 5px;
+    background-color: rgb(154, 206, 50);
+}
+
+.rgb{
+    background-color: YellowGreen;
+    border-radius: 5px;
+    border: 5px solid black;
+}
+
+nav a:hover{
+    color: white;
+    background-color: black;
+}
+
+i{
+    font-size: 25px;
+}
+
+.ref{
+    font-size:30px;
+    color:#82A653;
+}
+
+.ton{
+    border:5px solid #82A653;
+    border-radius: 5px;
+}
+
+.tao{
+    background-color:yellowgreen;
+    color: black;
+    text-decoration: none;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 5px;
+    padding: 3px;
+    transition: background-color 1s linear;
+}
+
+a:hover{
+    color: white;
+    background-color: black;
+}
